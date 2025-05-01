@@ -73,7 +73,8 @@
                 android:backgroundTint="#333333"
                 android:text="mc"
                 android:textColor="#FFFFFF"
-                android:textSize="10sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/mPlus"
                 android:layout_width="0dp"
@@ -83,7 +84,8 @@
                 android:backgroundTint="#333333"
                 android:text="m+"
                 android:textColor="#FFFFFF"
-                android:textSize="10sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/mMinus"
                 android:layout_width="0dp"
@@ -93,7 +95,8 @@
                 android:backgroundTint="#333333"
                 android:text="m-"
                 android:textColor="#FFFFFF"
-                android:textSize="10sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/mr"
                 android:layout_width="0dp"
@@ -103,7 +106,8 @@
                 android:backgroundTint="#333333"
                 android:text="mr"
                 android:textColor="#FFFFFF"
-                android:textSize="10sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/clear"
                 android:layout_width="0dp"
@@ -160,7 +164,8 @@
                 android:backgroundTint="#333333"
                 android:text="2ⁿᵈ"
                 android:textColor="#FFFFFF"
-                android:textSize="8sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/sqr"
                 android:layout_width="0dp"
@@ -170,7 +175,8 @@
                 android:backgroundTint="#333333"
                 android:text="x²"
                 android:textColor="#FFFFFF"
-                android:textSize="8sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/cube"
                 android:layout_width="0dp"
@@ -180,7 +186,8 @@
                 android:backgroundTint="#333333"
                 android:text="x³"
                 android:textColor="#FFFFFF"
-                android:textSize="12sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/power"
                 android:layout_width="0dp"
@@ -190,7 +197,8 @@
                 android:backgroundTint="#333333"
                 android:text="xʸ"
                 android:textColor="#FFFFFF"
-                android:textSize="12sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/exp"
                 android:layout_width="0dp"
@@ -200,7 +208,8 @@
                 android:backgroundTint="#333333"
                 android:text="eˣ"
                 android:textColor="#FFFFFF"
-                android:textSize="12sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/tenPow"
                 android:layout_width="0dp"
@@ -210,7 +219,8 @@
                 android:backgroundTint="#333333"
                 android:text="10ˣ"
                 android:textColor="#FFFFFF"
-                android:textSize="10sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/seven"
                 android:layout_width="0dp"
@@ -267,7 +277,8 @@
                 android:backgroundTint="#333333"
                 android:text="¹/ₓ"
                 android:textColor="#FFFFFF"
-                android:textSize="6sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/sqrt"
                 android:layout_width="0dp"
@@ -277,7 +288,8 @@
                 android:backgroundTint="#333333"
                 android:text="²√x"
                 android:textColor="#FFFFFF"
-                android:textSize="8sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/cubeRoot"
                 android:layout_width="0dp"
@@ -287,7 +299,9 @@
                 android:backgroundTint="#333333"
                 android:text="³√x"
                 android:textColor="#FFFFFF"
-                android:textSize="8sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
+
             <Button
                 android:id="@+id/yRoot"
                 android:layout_width="0dp"
@@ -297,7 +311,9 @@
                 android:backgroundTint="#333333"
                 android:text="ʸ√x"
                 android:textColor="#FFFFFF"
-                android:textSize="8sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
+
             <Button
                 android:id="@+id/ln"
                 android:layout_width="0dp"
@@ -307,7 +323,8 @@
                 android:backgroundTint="#333333"
                 android:text="ln"
                 android:textColor="#FFFFFF"
-                android:textSize="10sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/log"
                 android:layout_width="0dp"
@@ -317,7 +334,8 @@
                 android:backgroundTint="#333333"
                 android:text="log₁₀"
                 android:textColor="#FFFFFF"
-                android:textSize="6sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/four"
                 android:layout_width="0dp"
@@ -374,7 +392,8 @@
                 android:backgroundTint="#333333"
                 android:text="x!"
                 android:textColor="#FFFFFF"
-                android:textSize="12sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/sin"
                 android:layout_width="0dp"
@@ -384,7 +403,8 @@
                 android:backgroundTint="#333333"
                 android:text="sin"
                 android:textColor="#FFFFFF"
-                android:textSize="9sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/cos"
                 android:layout_width="0dp"
@@ -394,7 +414,8 @@
                 android:backgroundTint="#333333"
                 android:text="cos"
                 android:textColor="#FFFFFF"
-                android:textSize="9sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/tan"
                 android:layout_width="0dp"
@@ -404,7 +425,8 @@
                 android:backgroundTint="#333333"
                 android:text="tan"
                 android:textColor="#FFFFFF"
-                android:textSize="9sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/e"
                 android:layout_width="0dp"
@@ -424,7 +446,8 @@
                 android:backgroundTint="#333333"
                 android:text="EE"
                 android:textColor="#FFFFFF"
-                android:textSize="14sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/one"
                 android:layout_width="0dp"
@@ -492,7 +515,8 @@
                 android:backgroundTint="#333333"
                 android:text="sinh"
                 android:textColor="#FFFFFF"
-                android:textSize="8sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/cosh"
                 android:layout_width="0dp"
@@ -502,7 +526,8 @@
                 android:backgroundTint="#333333"
                 android:text="cosh"
                 android:textColor="#FFFFFF"
-                android:textSize="8sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/tanh"
                 android:layout_width="0dp"
@@ -512,7 +537,8 @@
                 android:backgroundTint="#333333"
                 android:text="tanh"
                 android:textColor="#FFFFFF"
-                android:textSize="8sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/pi"
                 android:layout_width="0dp"
@@ -542,7 +568,8 @@
                 android:backgroundTint="#333333"
                 android:text="Rand"
                 android:textColor="#FFFFFF"
-                android:textSize="6sp" />
+                android:padding="0dp"
+                android:textSize="18sp" />
             <Button
                 android:id="@+id/zero"
                 android:layout_width="0dp"
